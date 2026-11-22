@@ -1,0 +1,11 @@
+llama-cpp-python
+rich
+requests
+numpy
+pypdf
+python-pptx
+pytesseract
+Pillow
+pdf2image
+beautifulsoup4
+matplotlib
